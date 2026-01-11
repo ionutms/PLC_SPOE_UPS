@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "UNITED_MODULES_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/symbols/UNITED_MODULES_DATA_BASE.kicad_sym")(options "")(descr ""))
+)
